@@ -29,7 +29,7 @@ Bu proje, Hamming Kodlama tekniğinin **SEC (Single Error Correction - Tek Hata 
 
 1.  Projeyi bilgisayarınıza klonlayın veya ZIP olarak indirin:
     ```bash
-    git clone https://github.com/kullanici-adiniz/proje-repo-adi.git
+    git clone https://github.com/tanercinar/bmSecDedSim
     ```
 2.  Proje dizinine gidin:
     ```bash
