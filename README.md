@@ -33,7 +33,7 @@ Bu proje, Hamming Kodlama tekniğinin **SEC (Single Error Correction - Tek Hata 
     ```
 2.  Proje dizinine gidin:
     ```bash
-    cd proje-repo-adi
+    cd bmSecDedSim
     ```
 3.  Gerekli kütüphaneyi `pip` kullanarak yükleyin:
     ```bash
